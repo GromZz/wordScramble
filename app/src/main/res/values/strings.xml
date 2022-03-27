@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Word Scramble</string>
+    <string-array name="words">
+        <item>apple</item>
+        <item>watermelon</item>
+        <item>melon</item>
+        <item>blueberry</item>
+        <item>pear</item>
+        <item>grape</item>
+    </string-array>
+</resources>
